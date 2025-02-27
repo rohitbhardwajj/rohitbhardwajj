@@ -24,7 +24,7 @@
   <a href="https://codeforces.com/profile/rohitbhardwajjj" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/rohitbhardwaj121001" target="blank">
+  <a href="https://www.linkedin.com/in/rohit-bhardwaj-a00ab930b/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
