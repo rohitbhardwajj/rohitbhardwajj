@@ -8,7 +8,8 @@
 🌱 **Currently Learning:** DevOps & Cloud Technologies 🌩️  
 👯 **Looking to Collaborate on:** Web Dev, DevOps & DSA Challenges   
 📩 **How to Reach Me:** rohitbhardwaj121001@gmail.com  
-⚡ **Fun Fact:** I talk to servers more than people! 🖥️💬  
+⚡ **Fun Fact:** I talk to servers more than people! 🖥💬  
+
 
 ---
 
