@@ -58,5 +58,5 @@
 
 ---
 
-🚀 **Check out my Portfolio:** [Click Here](portfolio)  
+🚀 **Check out my Portfolio:** [Click Here](https://portfolio-smgn.vercel.app/)  
 📄 **View My Resume:** [Resume](resume)
