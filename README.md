@@ -12,7 +12,6 @@
   ⚡ <strong>Fun Fact:</strong> I talk to servers more than people! 🖥️💬
 </p>
 
-
 ---
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
@@ -33,6 +32,7 @@
 </p>
 
 ---
+
 <h3 align="center">💻 Tech Stack & Tools 💻</h3>
 
 <!-- Frontend -->
@@ -87,7 +87,21 @@
   <img src="https://img.shields.io/badge/Shell Scripting-F7E018?style=for-the-badge&logo=gnubash&logoColor=black" />
 </p>
 
+---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitbhardwajj&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitbhardwajj&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -102,7 +116,7 @@
 <h3 align="center">🌐 My Work</h3>
 
 - 🚀 **Portfolio Website:** [Click Here](https://portfolio-smgn.vercel.app/)
-- 📄 **Resume:** [Download Resume](resume) <!-- Replace with actual resume URL -->
+- 📄 **Resume:** [Download Resume](resume) <!-- Replace with actual resume link -->
 
 ---
 
