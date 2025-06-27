@@ -33,10 +33,10 @@
 </p>
 
 ---
-
 <h3 align="center">💻 Tech Stack & Tools 💻</h3>
 
 <!-- Frontend -->
+<h4 align="center">🧩 Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,11 +44,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <br/>
-  <strong>Frontend</strong>
 </p>
 
 <!-- Animations / UI -->
+<h4 align="center">✨ Animations & UI Libraries</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
@@ -56,21 +55,19 @@
   <img src="https://img.shields.io/badge/Locomotive/Lenis-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/LottieFiles-1CA1F1?style=for-the-badge&logo=lottie&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactBits-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br/>
-  <strong>Animations & UI</strong>
 </p>
 
 <!-- Backend -->
+<h4 align="center">🧠 Backend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/>
-  <strong>Backend</strong>
 </p>
 
 <!-- DevOps & Cloud -->
+<h4 align="center">☁️ DevOps & Cloud</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -79,19 +76,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <br/>
-  <strong>DevOps & Cloud</strong>
 </p>
 
 <!-- Programming Languages -->
+<h4 align="center">📝 Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell Scripting-F7E018?style=for-the-badge&logo=gnubash&logoColor=black" />
-  <br/>
-  <strong>Languages</strong>
 </p>
+
 
 
 ---
