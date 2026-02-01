@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer | CI/CD • Kubernetes • AWS</h3>
 
 <p align="center">
-<img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" width="920"/>
+<img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" width="520"/>
 
 </p>
 
