@@ -2,9 +2,10 @@
 <h3 align="center">DevOps & Cloud Engineer | CI/CD • Kubernetes • AWS</h3>
 
 <p align="center">
-<!-- Changed to a new GIF or image -->
-<img src="https://media.giphy.com/media/3o7aD4Sb3XXa4z3cX6/giphy.gif" width="420"/>
+<img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" width="920"/>
+
 </p>
+
 
 <p align="center">
 ✅ Skilled in DevOps & Cloud Technologies 🌩️ <br/>
