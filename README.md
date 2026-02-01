@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://portfolio-smgn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/></a>
-<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-green?style=for-the-badge"/></a>
+<a href="./ROHIT-BHARDWAJ-RESUME"><img src="https://img.shields.io/badge/Resume-green?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
