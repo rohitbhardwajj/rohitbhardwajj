@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohit Bhardwaj</h1>
-<h3 align="center">DevOps & Cloud Engineer | CI/CD • Kubernetes • AWS</h3>
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rohit+Bhardwaj;DevOps+%26+Cloud+Engineer;CI%2FCD+•+Docker+•+Kubernetes+•+AWS" />
+</h1>
 <p align="center">
 <img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" width="520"/>
 
@@ -63,14 +63,14 @@
 </p>
 
 ### 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rohitbhardwajj&show_icons=true&theme=dark&hide_border=true" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhardwajj&theme=dark&hide_border=true" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=rohitbhardwajj&theme=dark&hide_border=true" width="50%"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
