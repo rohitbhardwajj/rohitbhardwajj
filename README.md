@@ -68,7 +68,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohitbhardwajj&theme=tokyonight&column=6"/>
+</p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rohitbhardwajj&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbhardwajj&theme=tokyo-night"/>
