@@ -69,7 +69,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbhardwajj&theme=tokyonight&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitbhardwajj&theme=onedark&no-bg=true&no-frame=true&margin-w=15&v=5" />
 </p>
 
 <p align="center">
