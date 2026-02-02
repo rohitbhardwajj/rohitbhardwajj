@@ -64,19 +64,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohitbhardwajj&show_icons=true&theme=dark&hide_border=true" width="45%"/>
-<img src="https://streak-stats.demolab.com?user=rohitbhardwajj&theme=dark&hide_border=true" width="50%"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhardwajj&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbhardwajj&theme=darkhub&margin-w=15&column=7" />
-</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbhardwajj&theme=tokyo-night"/>
+</p>
 <p align="center">
 💡 <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
